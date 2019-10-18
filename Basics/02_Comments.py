@@ -1,0 +1,1 @@
+print(1/3) # Division returns Float, Even Dividing two integers
