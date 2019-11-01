@@ -14,3 +14,4 @@ def return_day(num):
 	except IndexError as e:
 		return None
 print(return_day(7)) # Saturday
+print(return_day(6)) # Friday
