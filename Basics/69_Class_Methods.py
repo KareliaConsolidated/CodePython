@@ -18,6 +18,9 @@ class User:
 		self.last = last
 		self.age = age
 		User.active_users += 1
+# The __repr__ method is one of several ways to provide a nicer string representation:
+	def __repr__(self):
+		return  f"{self.first} is {self.age}"
 
 	def logout(self):
 		User.active_users -= 1
