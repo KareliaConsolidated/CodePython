@@ -581,7 +581,7 @@ col = ['red',
 import numpy as np
 import matplotlib.pyplot as plt
 
-plt.scatter(x = gdp_cap, y = life_exp, s = np.array(pop) * 2, c= col)
+plt.scatter(x = gdp_cap, y = life_exp, s = np.array(pop) * 2, c= col, alpha = 0.8)
 
 # Previous customizations
 plt.xscale('log') 
