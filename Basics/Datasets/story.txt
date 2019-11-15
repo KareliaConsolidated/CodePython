@@ -1,0 +1,3 @@
+Hello there, I am really happy to learn Python.
+Going into the Data Science Field was my Dream.
+Doing my best to get there.

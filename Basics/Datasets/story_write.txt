@@ -1,0 +1,3 @@
+Writing Files is Great
+Here's another line of text
+I think that's enough line check, GoodBye!
