@@ -71,7 +71,7 @@ np_baseball = np.array(baseball)
 print(np_baseball[49,:])
 
 # Select the entire second column of np_baseball: np_weight_lb
-np_weight_lb = np_baseball[:,1]
+np_weight_lb = np_baseball[[0:1],1]
 
 # Print out height of 124th player
 print(np_baseball[123,0])
